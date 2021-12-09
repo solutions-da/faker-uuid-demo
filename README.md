@@ -12,3 +12,5 @@ Enjoy
 UUID: `node index.js`  
 
 Faker: `node faker-demo.js`
+
+Faker locale es: `node faker-es-demo.js`
